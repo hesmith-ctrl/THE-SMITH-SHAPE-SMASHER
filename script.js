@@ -12,9 +12,9 @@ const finalScoreDisplay = document.getElementById('final-score');
 const restartButton = document.getElementById('restart-button');
 
 const shapes = [
-    'images/circle.png',
-    'images/square.png',
-    'images/triangle.png'
+    'circle.png',
+    'square.png',
+    'triangle.png'
 ];
 
 // Function to start the game
